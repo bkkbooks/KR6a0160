@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0160/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿含口解十二因緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T25/T25n1508.xml
+    old_id: T25n1508
+hash: sha256:cb87d349f894105a4e9facb182c9b71210ee6a0c5f309c14ee3afffdfdd7c097
