@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0160_000.yaml, hash: 'sha256:cb87d349f894105a4e9facb182c9b71210ee6a0c5f309c14ee3afffdfdd7c097'}
-  - {seq: 1, filename: KR6a0160_001.yaml, hash: 'sha256:0d67e36ad6d9527fcb65ce7c6cbaa1c07587c23ec79bebb35bd44210c98a4164'}
+  - {seq: 1, filename: KR6a0160_001.yaml, hash: 'sha256:f8b9ff90a7aeca5ab9a3a4c01cfc24ce9a13a6b940e2ea1812742abf4bba15ef'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0160_001.markers.yaml, hash: 'sha256:e6e766dd7fa5722a6b7779ccc4e560bac9111eb159c46a008c1946b668805b14'}
+  - {seq: 0, role: markers, filename: assets/KR6a0160_000.markers.yaml, hash: 'sha256:431fe745580d7f5fda977a5c6e4ddedbb443e15c5a06a9ecfc70c8f9b6069251'}
+  - {seq: 1, role: markers, filename: assets/KR6a0160_001.markers.yaml, hash: 'sha256:b401a210707061dfa27a9cc5a1a61d7b2e2364a909c90e64a8d9372ed1c9ee3b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 阿含口解十二因緣經
   type: juan
   level: 1
-hash: sha256:94a7db7be0124c3bdcff31fc84f6f9e02edcc7e435b798fec5cc87d43bb56289
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cf95f654b48a0d7dde7f552d5cdb6255d636024438a2a473229df171dbff189d
