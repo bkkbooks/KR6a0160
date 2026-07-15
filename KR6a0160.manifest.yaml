@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0160/v1
 canonical_location: https://kanripo.org/bkk/KR6a0160/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿含口解十二因緣經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0160_000.yaml, hash: 'sha256:cb87d349f894105a4e9facb182c9b71210ee6a0c5f309c14ee3afffdfdd7c097'}
-  - {seq: 1, filename: KR6a0160_001.yaml, hash: 'sha256:f8b9ff90a7aeca5ab9a3a4c01cfc24ce9a13a6b940e2ea1812742abf4bba15ef'}
+  - {seq: 1, filename: KR6a0160_001.yaml, hash: 'sha256:f077d7dac823aadd6cdcaa3105ea2969c4315986de239af34288acdf82991939'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0160_000.markers.yaml, hash: 'sha256:431fe745580d7f5fda977a5c6e4ddedbb443e15c5a06a9ecfc70c8f9b6069251'}
-  - {seq: 1, role: markers, filename: assets/KR6a0160_001.markers.yaml, hash: 'sha256:b401a210707061dfa27a9cc5a1a61d7b2e2364a909c90e64a8d9372ed1c9ee3b'}
+  - {seq: 1, role: markers, filename: assets/KR6a0160_001.markers.yaml, hash: 'sha256:39681de346fd958f83f08f23ce2d551520143fc4abc4a9a78d2812c0210afaf0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 阿含口解十二因緣經
   type: juan
   level: 1
-hash: sha256:cf95f654b48a0d7dde7f552d5cdb6255d636024438a2a473229df171dbff189d
+hash: sha256:323bb77f1ecdc2f07807945e305f042b4e1b2e2d4f9b0124e9ba33117cb9e4ed
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
